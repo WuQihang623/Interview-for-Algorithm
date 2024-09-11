@@ -5,6 +5,7 @@
 - [3.Sora有哪些创新点？](#3.Sora有哪些创新点？)
 - [4.SVD（Stable-Video-Diffusion）有哪些创新点？](#4.SVD（Stable-Video-Diffusion）有哪些创新点？)
 - [5.AIGC时代的主流AI视频生成流程有哪些？](#5.AIGC时代的主流AI视频生成流程有哪些？)
+- [6.SAM v2] (#6.SAM v2)
 
 
 <h2 id="1.目前主流的AI视频技术框架有哪几种？">1.目前主流的AI视频技术框架有哪几种？</h2>
@@ -53,3 +54,6 @@ Rocky认为SVD（Stable Video Diffusion）模型非常有价值，其开源精�
 Rocky总结了如下图所示的AIGC时代主流AI视频生成流程，可以作为大家构建AI视频产品构架的基础底座：
 
 ![AIGC时代的主流AI视频生成流程](./imgs/AIGC时代的主流AI视频生成流程.jpg)
+
+## 6.SAM v2
+
